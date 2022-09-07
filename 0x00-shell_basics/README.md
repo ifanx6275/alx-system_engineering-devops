@@ -1,1 +1,1 @@
-this script is printing current working directory
+displaying current dir contents plus hidden files
